@@ -1,6 +1,24 @@
 {
-  "Version": "1.0.5",
-  "ReleaseNotes": "",
+  "Version": "1.0.6",
+  "ReleaseNotes": " \n              "Nova Atualização Disponível 🦸🏻 
+\n\n MANTENHA O APLICATIVO  SEMPRE ATUALIZANDO 📱
+\n ••••••••••••••••••••••••••••••••••••••••••••••
+\n            🆚 Versão: 1.0.2
+\n•••••••••••••••••••••••••••••••••••••••••••••••
+\n              🔰Funcionando
+\n               🔰[🟣 VIVO]🟢Easy 🧑‍🔧
+\n                🔰[ 🔵 TIM  🟢
+\n                 🔰[ 🔴 Claro Manutenção⚠️ 
+\n                  🔰[ 🟡  Oi    🟢
+\n🗣️ Uma dica, recomendo ter dois chip
+\n🤖 Caso uma rede caia vc tem a outra
+\n🤖 Para si conectar tranquilamente✔️
+\n================================
+\n🧑🏻‍💻 Qualquer dificuldade para se Conectar 
+\n📱 entre em contato 🙋🏻‍♂️ Com seu revendedor
+\n🤔            para ele te orientar 👍🏻….",
+\n\nUser:  Mauvadao\nSenha: totalfree
+\n                Tenham um bom Dia",
   "UrlUpdate": "https://raw.githubusercontent.com/mauvadao4g/MAUVADAO_UPDATES/main/MauvadaoSx%20_Update",
   "Sms": "https://paste.anasor.com/paste.php?raw&id=15900",
   "EmailFeedback": "suppportr@gmail.com",
@@ -23,7 +41,7 @@
   ],
   "Networks": [
      {
-      "Name": "╰┈[☞>📱𝐕𝐈𝐕𝐎 𝟎𝟏 ━─━ 𝐎𝐍 🟢 📡 23-07-22 1.4",
+      "Name": "╰┈[☞>📱𝐕𝐈𝐕𝐎 𝟎𝟏 ━─━ 𝐎𝐍 🟢 📡 23-07-22 1.6",
       "FLAG": "vivo",
       "Payload": "GET wss://support.deezer.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "support.deezer.com",
