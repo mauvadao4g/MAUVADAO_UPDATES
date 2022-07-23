@@ -17,8 +17,8 @@
       "CheckUser": "http://51.222.117.117:5151/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
+      "USER": "mauvadao",
+      "PASS": "totalfree"
    }
   ],
   "Networks": [
