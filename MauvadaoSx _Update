@@ -1,8 +1,8 @@
 {
-  "Version": "1.0.2",
+  "Version": "1.0.3",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/mauvadao4g/MAUVADAO_UPDATES/main/MauvadaoSx%20_Update",
-  "Sms": "https://raw.githubusercontent.com/mauvadao4g/MAUVADAO_UPDATES/main/Mensagem2",
+  "Sms": "https://paste.anasor.com/paste.php?raw&id=15900",
   "EmailFeedback": "suppportr@gmail.com",
   "UrlContato": "https://wa.me/",
   "UrlTermos": "https://www.speedtest.net/pt",
@@ -23,7 +23,7 @@
   ],
   "Networks": [
      {
-      "Name": "╰┈[☞>📱𝐕𝐈𝐕𝐎 𝟎𝟏 ━─━ 𝐎𝐍 🟢 📡 23-07-22 1.2",
+      "Name": "╰┈[☞>📱𝐕𝐈𝐕𝐎 𝟎𝟏 ━─━ 𝐎𝐍 🟢 📡 23-07-22 1.3",
       "FLAG": "vivo",
       "Payload": "GET wss://support.deezer.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "support.deezer.com",
